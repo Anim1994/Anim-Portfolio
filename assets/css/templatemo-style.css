@@ -560,7 +560,9 @@ section.my-work .section-heading {
     background: #f7f7f7 url(//afarkas.github.io/lazysizes/assets/imgs/loader.gif) no-repeat center;
     min-height: 60px;
 }
-
+figure.snip1321.img{
+    height: 332px;
+}
 figure.snip1321 {
   overflow: hidden;
   text-align: center;
