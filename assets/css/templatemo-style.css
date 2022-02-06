@@ -27,6 +27,7 @@ body {
 
 body {
     overflow-x: hidden;
+   
 }
 
 input,
@@ -49,7 +50,7 @@ p {
 h4 {
     font-size: 26px;
     font-weight: 700;
-    color: rgb(22, 0, 104);
+    color: rgb(18, 4, 66);
     letter-spacing: 0.25px;
 }
 
