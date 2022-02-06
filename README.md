@@ -1,3 +1,3 @@
 # Anim-Portfolio
 
-This is Anim Rahman's personal portfolio
+This is Anim Rahman's personal portfolio.
