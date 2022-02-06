@@ -198,6 +198,7 @@ html {
     padding-right: 30px;
     padding-top: 30px;
     font-size: 13px;
+    color: aliceblue;
 }
 
 .menu:before,
@@ -420,6 +421,7 @@ button:hover {
 
 .service-item p {
     transition: all 0.5s;
+    color:rgb(28, 1, 46);
 }
 
 .service-item:hover {
