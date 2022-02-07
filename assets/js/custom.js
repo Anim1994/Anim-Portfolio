@@ -62,7 +62,10 @@
 
     $isotope.isotope({
       itemSelector: ".isotope-item",
-      layoutMode: "masonry"
+      layoutMode: "masonry",
+      masonry: {
+        columnWidth: 200
+      }
     });
 
     $(this).on("change", filter);
